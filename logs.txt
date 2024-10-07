@@ -1,1 +1,1 @@
-lecture 01 [finished]
+lecture 01 - Combinational Circuits, Truth Tables [finished]

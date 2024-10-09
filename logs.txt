@@ -1,1 +1,2 @@
 lecture 01 - Combinational Circuits, Truth Tables [finished]
+lecture 02 - Boolean Expressions and Logic Diagrams [finished]
